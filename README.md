@@ -1,5 +1,5 @@
-Bronies.lv
+osu.lv
 ==========
 
-Ways to reach latvian bronies. Pull requests are welcome.
+Ways to reach latvian osu! community. Pull requests are welcome.
 
