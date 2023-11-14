@@ -1,1 +1,3 @@
 RedirectMatch 404 /\.git
+RedirectMatch 404 /compose.yaml
+RedirectMatch 404 /(.*).code-workspace
