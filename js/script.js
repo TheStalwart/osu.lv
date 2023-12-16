@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function changeLanguage(lang) {
-  fetch(`${lang}.json`)
+  fetch(`./languages/${lang}.json`)
     .then(response => response.json())
     .then(data => {
       document.title = data.page_title;
